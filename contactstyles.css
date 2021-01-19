@@ -1,0 +1,33 @@
+body{
+	color:#fff;
+	background-color: #36bcd1;
+}
+h2,h3,p{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}
+img{
+	padding: 20px;
+	border: 5px solid white;
+}
+.column{
+	float: left;
+	width: 18%;
+	padding: 10px;
+}
+.btn {
+  border: 1px solid white;
+  background-color: #0db1de;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.nur,.haziq,.jeysha,.nabil,.pal {color: white;}
+.nur:hover, .haziq:hover, .jeysha:hover, .nabil:hover, .pal:hover {
+	background: #566ffc;
+    color: white;
+}
+
+#instruction {
+	font-style: italic;
+}
