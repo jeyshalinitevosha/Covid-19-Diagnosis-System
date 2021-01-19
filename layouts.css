@@ -1,0 +1,69 @@
+.header {
+    color: white;
+    background-color: #0db1de;
+    border-style: ridge;
+    text-align: center;
+    font-family:"Segoe UI",Arial,sans-serif;
+    margin-top: 15px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+body {
+    background-image: url('covid19.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.form {
+    font-weight: bold;
+    font-style: oblique;
+    color: white;
+    border-style: solid;
+    border-color: grey;
+    background-color: black;
+    opacity: 80%;
+    padding: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.input-group {
+    font-family:"Segoe UI",Arial,sans-serif;
+    text-align: center;
+    margin: 15px;
+}
+
+.btn {
+    color: white;
+    background-color: #0db1de;
+    font-size: 20px;
+    font-family:"Segoe UI",Arial,sans-serif;
+    padding: 20px;
+    border-style: outset;
+    border-color: white;
+    width: 250px;
+    margin-top: 50px;
+}
+
+.btn:hover {
+    background-color: #566ffc;
+}
+
+p {
+    font-family:"Segoe UI",Arial,sans-serif;
+    text-align: center;
+}
+
+a {
+    color: #0db1de;
+}
+
+th {
+    text-align: right;
+}
+
+td {
+    text-align: left;
+}

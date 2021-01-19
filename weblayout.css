@@ -1,0 +1,133 @@
+header {
+    text-align: center;
+    color: #0db1de;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: black;
+    margin: 20px;
+    opacity: 0.85;
+}
+
+#image {
+    float: left;
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: black;
+    margin: 20px;
+}
+
+section:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+table {
+    color: #0db1de;
+    float: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    opacity: 0.85;
+    margin: 20px;
+    width: 82%;
+    height: 350px;
+}
+
+th {
+    border-style: groove;
+    border-color: #0db1de;
+    width: 10%;
+}
+
+td {
+    border-style: groove;
+    border-color: #0db1de;
+    padding: 7.5px;
+}
+
+#backimg {
+    background-image: url("dna.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+}
+
+footer {
+    text-align: center;
+    color: #0db1de;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: black;
+    margin: 20px;
+    opacity: 0.85;
+    padding: 15px;
+}
+
+.grnbrdr {
+    text-align: center;
+    color: #0db1de;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: black;
+    margin: 20px;
+    padding: 15px;
+}
+
+.vid {
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: black;
+    margin: 20px;
+}
+
+#boxA, #boxB {
+    padding: 10px;
+    margin: 10px;
+    -moz-user-select:none;
+}
+
+#boxA {
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: black;
+    width: 75px;
+    height: 75px;
+}
+
+#boxB {
+    color: black;
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: gray;
+    width: 150px;
+    height: 150px;
+}
+
+#box {
+    width: 250px;
+    height: 225px;
+    margin: 0px auto;
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: darkgray;
+}
+
+.graybox {
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: lightslategray;
+    margin: 20px;
+    height: 250px;
+    opacity: 0.85;
+}
+
+.grnbrdr input{
+    text-align: center;
+    color: #0db1de;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: groove;
+    border-color: #0db1de;
+    background-color: black;
+}
